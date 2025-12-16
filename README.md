@@ -1,8 +1,4 @@
 <<<<<<< HEAD
-#  Guide de  d'xécution du projet de classification d'images avec
-#les modèles traditionnels vs le réseau de neurones convolutionnel
-
-##  Structure du Projet
 =======
 #   GUIDE D'EXECUTION DU PROJET DE CLASSIFICATION D'IMAGES AVEC LES MODELES TRADITIONNELS VS CNN
 
